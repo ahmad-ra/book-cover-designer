@@ -1,6 +1,6 @@
-# tryvue2
+# Toy book cover designer
 
-> A vue
+> A simple designer to produce a book cover by giving a background color and dragging text on the cover
 
 ## Build Setup
 
